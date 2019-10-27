@@ -4,7 +4,7 @@ import java.util.Properties;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.Serdes;
-import org.apache.kafka.streams.
+import org.apache.kafka.streams.StreamsConfig;
 
 public class StreamsStarterApp {
     public static void main(String[] args) {
